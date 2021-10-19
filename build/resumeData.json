@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Rida Shoaib",
+    "description":"Hardworking Professional with 1+ years of experience and a proven knowledge of web design. Aiming to leverage my skills to successfully fill the front-end web developer role at your company",
+    "bio":"I am a highly motivated programmer, keenly cracking the new innovations and advanced software systems. Practice and practicals are all hand in hand enhancing my skills, I am right now keeping myself abreast of new programmings and know how the system works.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "rida.tech666@gmail.com",
+    "phone": "0304-6213778",
+    "github":"https://github.com/rida-123",
+    "address":{
+      "street":"Ojla Street",
+      "city":"Mamukanjan",
+  
+      "zip": "37000"
+    },
+
+    "social":[
+  
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rida-shoaib-243033222/",
+        "className":"fa fa-linkedin"
+      },
+    
+      {
+        "name":"github",
+        "url":"https://github.com/rida-123",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    
+    "education":[
+      {
+        "school":"University Of Agriculture Faisalabad",
+        "degree":"BS software Engineering",
+        "graduated":"June 2019"
+       
+      },
+      {
+        "school":"Punjab College samundri",
+        "degree":"Fsc pre-engg",
+        "graduated":"April 2015"
+       
+      }
+    ],
+    "work":[
+      {
+        "company":"Unial Software House",
+        "title":"Front end Web developer",
+        "years":"June 2018 -June 2019"
+        
+      },
+      {
+        "company":"Gamica Cloud Mass IT training Institute",
+        "title":"React.js Developer",
+        "years":"March 2021 - Sept 2021"
+
+      }
+    ],
+    "skills":[
+  
+    
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+    
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"Materialize CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+    
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      }
+    
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        
+        "image":"1.jpg"
+      
+
+      
+      },
+      {
+
+        "image":"2.png"
+      
+      },
+      {
+      
+        "image":"3.png"
+        
+      },
+{
+        "image":"4.png"
+      
+      },
+      {
+       
+        "image":"5.png"
+
+      },
+      {
+
+        "image":"6.jpeg"
+       
+      }
+      
+    ]
+  }
+}
